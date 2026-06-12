@@ -10,7 +10,7 @@ from telethon.errors import SessionPasswordNeededError
 from telethon import Button
 
 # ========== КОНФИГ ==========
-BOT_TOKEN = '8557841311:AAFaAMArKf4QYw-mMQFMG89aE8LZq3ff7yI'
+BOT_TOKEN = '8978520231:AAHhJN-kTxvRUuq5a38EE-vFLd6iHrCu-jk'
 ADMIN_IDS = [7465903807, 6844924312]  # ТВОЙ TELEGRAM ID
 
 APP_ID = 2040
